@@ -1,0 +1,35 @@
+id: P498A444A
+initial_creation_type: input
+source_metadata:
+  title: Orgyen Tobgyal Rinpoche Series
+  language: nl
+  description: 'Texts and teachings by Orgyen Tobgyal Rinpoche (o rgyan stobs rgyal,
+    b. 1951), son of the Third Neten Chokling Rinpoche and renowned teacher of the
+    Vajrayāna:'
+  volume:
+    a7b0765a7f99437f8f3eafc7dc955647:
+      title: The Life of Jamyang Khyentse Wangpo
+      parent: Biography
+    b834f71f6cb74feea7ad03427fb27d33:
+      title: A Brief History of the Sacred Image of White Tārā
+      parent: History
+    59df7085d7114da393b0f30f2c763512:
+      title: Prayer for the Long Life of Orgyen Tobgyal Rinpoche
+      parent: Long Life Prayers
+    dd612c46bb1a48b9a7f349b7e6f26107:
+      title: The Excellent Stream of Nectar of Immortality
+      parent: Long Life Prayers
+    40cf2f49b64c4f13bd7bfe31c50684b3:
+      title: A Tribute to Tsewang Paljor
+      parent: Biographies
+    04c17b90e45340e3bb10a3650076e0f7:
+      title: The Life of Jamyang Khyentse Chökyi Lodrö
+      parent: Biographies
+    047f8b5c202849d3895dbcc4b116925d:
+      title: Invocation of the Vidyādhara Gurus
+      parent: Prayers
+    fcd8f3bf1a014b8f8ebf3fcee8d1e2bd:
+      title: Prayer to Khandro Tsering Chödrön
+      parent: Prayers
+created_at: '2022-03-01T01:08:30.490441'
+last_modified_at: '2022-03-01T01:08:30.490447'
